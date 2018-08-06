@@ -1,0 +1,11 @@
+/*anything in here is global css code*/
+
+.Person{
+    width: 60%;
+    margin: auto;
+    border: 1px solid #eeeeee;
+    box-shadow: 0 2px 3px #cccccc;
+    padding: 60px;
+    text-align: center;
+}
+
